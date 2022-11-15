@@ -1,0 +1,3 @@
+displayName = Star's Rampage
+author = Vitor Gabriel
+version = 0.1
